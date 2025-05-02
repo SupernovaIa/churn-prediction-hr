@@ -56,13 +56,13 @@ This project was developed in Python 3.12. To set it up, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SupernovaIa/Proyecto-8-Prediccion-de-Retencion-de-Empleados
+   git clone https://github.com/SupernovaIa/churn-prediction-hr
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd Proyecto-8-Prediccion-de-Retencion-de-Empleados
+   cd churn-prediction-hr
    ```
 
 3. **Install the necessary dependencies:**
